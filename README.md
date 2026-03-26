@@ -83,7 +83,7 @@ This is not a hobby setup — it is a **testbed for production-grade systems**.
 
 ---
 
-## ✍️ Portfolio & Writing
+## ✍️ Writing
 
 🌐 https://harish2k01.in/
 
