@@ -104,7 +104,7 @@ I document practical implementations and lessons learned from:
 
 - 🌐 https://harish2k01.xyz/
 - 💻 https://github.com/harish2k01
-- 🤠 https://www.linkedin.com/in/harish2k01/
+- 🤠 https://linkedin.com/in/harish2k01/
 
 ---
 
