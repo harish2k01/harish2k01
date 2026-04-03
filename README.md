@@ -94,12 +94,6 @@ I document practical implementations and lessons learned from:
 
 ---
 
-## 📈 GitHub Stats
-
-![Harish's GitHub stats](https://streak-stats.demolab.com?user=harish2k01&theme=telegram-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_current_streak=true&hide_longest_streak=true)
-
----
-
 ## 🤝 Connect
 
 - 🌐 https://harish2k01.xyz/
